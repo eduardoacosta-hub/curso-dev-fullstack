@@ -1,0 +1,22 @@
+body{
+    background-color: #dfdfdf;
+}
+
+p{
+    color:#222222;
+}
+
+.foto-principal {
+    width: 200PX;
+    border: 2px solid  #FFFF;  
+    border-radius: 50%;
+
+    margin: 30px 30px 30px 30px;  /* sorthand*/
+    /*margin-top: 30px;
+      margin-right: 30px;
+      margin-bottom: 30px;
+      margin-left: 30px;
+      ler doc w3schools.com/css/css_margin.asp
+      atenção! a ordem das propriedades é importante
+     */
+}

@@ -1,0 +1,19 @@
+body{
+    background-color: #dfdfdf;
+}
+
+p{
+    color:#222222;
+}
+
+.foto-principal {
+    width: 200PX;
+    border: 2px solid  #FFFF;  /* shorthand*/
+    border-radius: 50%;
+    /*border-width: 5px;
+      border-style: solid;
+      border-color: black;
+      ler doc w3schools.com/css/css_border.asp
+      atenção! a ordem das propriedades é importante
+     */
+}

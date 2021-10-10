@@ -1,0 +1,22 @@
+body{
+    background-color: #dfdfdf;
+}
+
+p{
+    color:#222222;
+}
+
+.foto-principal {
+    width: 200PX;
+    border: 2px solid  #FFFF;  
+    border-radius: 50%;
+    margin: 30px;  
+    padding: 10px; /*sorthand*/
+    /*padding-top: 10px;
+      padding-right: 10px;
+      padding-bottom: 10px;
+      padding-left: 10px;
+      ler doc w3schools.com/css/css_padding.asp
+      atenção! a ordem das propriedades é importante (padding=espaçamento interno/margin=epaçamento externo)
+     */
+}
